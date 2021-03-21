@@ -1,0 +1,42 @@
+.a{
+    width: 478px;
+    height: 75px;
+    background-color: purple;
+}
+
+.b{
+    width: 478px;
+    height: 150px;
+    background-color: rgb(150, 92, 5);
+}
+.c , .d {
+    width: 478px;
+    height: 125px;
+    display: block;
+    background-color: rgb(111, 110, 148);
+}
+
+.e ,.f {
+    width: 239px;
+    height: 250px;
+    display: block;
+    float: left;
+    background-color: rgb(88, 11, 63);
+}
+
+
+.g ,.h{
+    width: 239px;
+    height: 250px;
+    display: block;
+    float: left;
+    background-color: rgb(2, 2, 26);
+
+}
+
+.i{
+    width: 478px;
+    height:80px;
+    float: left;
+    background-color: rgb(126, 12, 50);
+}
