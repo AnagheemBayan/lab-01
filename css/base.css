@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+div{
+    background-color: rgb(102, 71, 71);
+    border: 1px solid ;
+}
+.container{
+    position: absolute;
+    background-color: white;
+    width: 480px;
+}
+.container p{
+    text-align: center;
+    font-weight: bolder;
+    
+    padding-top: 2vh;
+}
