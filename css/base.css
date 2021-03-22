@@ -1,19 +1,15 @@
 *{
     box-sizing: border-box;
 }
+body{
+  background-color: cornsilk;
+}
+ .container{
+    background-color: rgb(161, 161, 156);
+     width: 960px;
+     height: 700px;
+     margin: auto;
 
-div{
-    background-color: rgb(102, 71, 71);
-    border: 1px solid ;
-}
-.container{
-    position: absolute;
-    background-color: white;
-    width: 480px;
-}
-.container p{
-    text-align: center;
-    font-weight: bolder;
-    
-    padding-top: 2vh;
-}
+ }
+
+ 

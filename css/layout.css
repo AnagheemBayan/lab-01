@@ -1,42 +1,83 @@
 .a{
-    width: 478px;
-    height: 75px;
-    background-color: purple;
+    background-color: rgb(163, 170, 163);
+    width: 960px;
+    height: 100px;
+    border: 1px solid black;
 }
-
 .b{
-    width: 478px;
-    height: 150px;
-    background-color: rgb(150, 92, 5);
-}
-.c , .d {
-    width: 478px;
-    height: 125px;
-    display: block;
-    background-color: rgb(111, 110, 148);
-}
+    background-color: rgb(163, 170, 163);
+    width: 200px;
+    height: 600px;
+    border: 1px solid black;
+    text-align: center;
 
-.e ,.f {
-    width: 239px;
+}
+.right{
+    display: inline-flex;
+    position: absolute;
+    top: 100px;
+    right: 280px;
+}
+.c{
+    background-color: rgb(163, 170, 163);
+    width: 380px;
+    height: 200px;
+    border: 1px solid black;
+    text-align: center;
+}
+.d{
+    background-color: rgb(163, 170, 163);
+    width: 380px;
+    height: 200px;
+    border: 1px solid black;
+    text-align: center;
+}
+.right-bottom{
+    display: inline-flex;
+    position: absolute;
+    top: 300px;
+    right: 280px;
+
+}
+.e{
+    background-color: rgb(163, 170, 163);
+    width: 190px;
     height: 250px;
-    display: block;
-    float: left;
-    background-color: rgb(88, 11, 63);
+    border: 1px solid black;
+    text-align: center;
 }
-
-
-.g ,.h{
-    width: 239px;
+.f{
+    background-color: rgb(163, 170, 163);
+width: 190px;
+height: 250px;
+border: 1px solid black;
+text-align: center;
+}
+.g{
+    background-color: rgb(163, 170, 163);
+    width: 190px;
     height: 250px;
-    display: block;
-    float: left;
-    background-color: rgb(2, 2, 26);
-
+    border: 1px solid black;
+    text-align: center;
 }
-
+.h{
+    background-color: rgb(163, 170, 163);
+    width: 190px;
+    height: 250px;
+    border: 1px solid black;
+    text-align: center;
+}
 .i{
-    width: 478px;
-    height:80px;
-    float: left;
-    background-color: rgb(126, 12, 50);
+    background-color: rgb(163, 170, 163);
+    width: 760px;
+    height: 150px;
+    position: relative;
+    bottom: 150px;
+    left: 115px;
+    border: 1px solid black;
+    text-align: center;
+
+}
+div p{
+    text-align: center;
 }
