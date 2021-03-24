@@ -1,15 +1,9 @@
-*{
-    box-sizing: border-box;
-}
-body{
+body {
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bolder;
+
   background-color: cornsilk;
 }
- .container{
-    background-color: rgb(161, 161, 156);
-     width: 960px;
-     height: 700px;
-     margin: auto;
-
- }
-
- 
+*{
+  box-sizing: border-box;
+}
