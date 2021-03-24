@@ -5,6 +5,7 @@ body{
   background-color: cornsilk;
 }
  .container{
+   position: relative;
     background-color: rgb(161, 161, 156);
      width: 960px;
      height: 700px;
